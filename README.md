@@ -1,6 +1,6 @@
-# SECRET HOGWARTS
-## SCHOOL of DATA WITCHCRAFT and WIZARDRY
-### Muggles Welcome
+# SECRET HOGWARTS 🏰
+## SCHOOL of DATA SORCERY 🧙
+### Muggles Welcome 💖
 
 #### From: Headmaster Shillbus DumbleTor (Secret Order of Merlin, Grand Sorcerer, Chief Warlock, Supreme Mugwump, International Confederation of Wizards)
 
@@ -11,7 +11,7 @@ We are pleased to inform you that you have been formally invited to attend Secre
 Enclosed you will find a list of all necessary books and equipment.
 
 
-COURSE BOOKS
+## COURSE BOOKS
 
 All students should have a copy of each of the following:
 
@@ -34,29 +34,29 @@ All students should have a copy of each of the following:
 - [Secret Bids: Trust-Minimized Auction Contracts](https://blog.scrt.network/secret-auctions)
 
 
-OTHER EQUIPMENT
-1 wand: GitHub account
-1 cauldron: set up your environment
-1 set glass or crystal phials: contribute some data
-1 telescope: ask questions to help gather insights
-1 set brass scales: metrics
+## OTHER EQUIPMENT
+- **1 wand:** GitHub account
+- **1 cauldron:** set up your environment
+- **1 set glass or crystal phials:** contribute some data
+- **1 telescope:** ask questions to help gather insights
+- **1 set brass scales:** metrics
 
-Students may also bring, if they desire, an owl OR a cat OR a toad.
+Students may also bring, if they desire, an owl 🦉 OR a cat 🐈 OR a toad 🐸
 
 
 # FaunaDB with Magic Authentication (featuring Next.js)
 
-Refer to the official [demo](https://example-nextjs-faunadb-todomvc.vercel.app/login) and [tutorial](https://docs.magic.link/integrations/todomvc) to build your own FaunaDB-powered TodoMVC app with Magic passwordless login!
+Refer to this [demo](https://example-nextjs-faunadb-todomvc.vercel.app/login) and [tutorial](https://docs.magic.link/integrations/todomvc) to build your own FaunaDB-powered TodoMVC app with Magic passwordless login!
 
 ## Deploy your own!
 
-Deploy the example using [Vercel Now](https://vercel.com/docs/now-cli#commands/overview/basic-usage):
+Deploy an example using [Vercel Now](https://vercel.com/docs/now-cli#commands/overview/basic-usage):
 
 [![Deploy with Vercel Now](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fmagiclabs%2Fexample-nextjs-faunadb-todomvc&env=NEXT_PUBLIC_MAGIC_PUBLISHABLE_KEY,MAGIC_SECRET_KEY,FAUNADB_SECRET_KEY,ENCRYPTION_SECRET)
 
 ## Configuration
 
-Login to the [Magic Dashboard](https://dashboard.magic.link/) to get API keys for your application.
+Login to the [Magic Dashboard](https://dashboard.magic.link) to get API keys for your application.
 
 ![Magic Dashboard](https://gblobscdn.gitbook.com/assets%2F-M1XNjqusnKyXZc7t7qQ%2F-M3HsSftOAghkNs-ttU3%2F-M3HsllfdwdDmeFXBK3U%2Fdashboard-pk.png?alt=media&token=4d6e7543-ae20-4355-951c-c6421b8f1b5f)
 
