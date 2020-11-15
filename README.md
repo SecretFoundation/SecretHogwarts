@@ -41,7 +41,7 @@ All students should have a copy of each of the following:
 - **1 telescope:** ask questions to help gather insights
 - **1 set brass scales:** metrics
 
-Students may also bring, if they desire, an owl 🦉 OR a cat 🐈 OR a toad 🐸
+Students may also bring, if they desire, an 🦉 owl OR a 🐈 cat OR a 🐸 toad.
 
 
 # FaunaDB with Magic Authentication (featuring Next.js)
