@@ -1,10 +1,54 @@
+# SECRET HOGWARTS
+## SCHOOL of DATA WITCHCRAFT and WIZARDRY
+### Muggles Welcome
+
+#### From: Headmaster Shillbus DumbleTor (Secret Order of Merlin, Grand Sorcerer, Chief Warlock, Supreme Mugwump, International Confederation of Wizards)
+
+Dear [Codename],
+
+We are pleased to inform you that you have been formally invited to attend Secret Hogwarts: School of Data Witchcraft and Wizardry. Many Secret Agents don’t understand their own magical powers. Everyone learns better together!
+
+Enclosed you will find a list of all necessary books and equipment.
+
+
+COURSE BOOKS
+
+All students should have a copy of each of the following:
+
+- [Secret Network GitHub Repository](https://github.com/enigmampc/SecretNetwork)
+- [Introducing Secret Network](https://blog.scrt.network/introducing-secret-network)
+- [Secret Hub: Making Privacy One With the Cosmos](https://blog.scrt.network/secret-hub)
+- [Programmable Privacy: Turning Smart Contracts into Secret Contracts](https://blog.scrt.network/programmable-privacy)
+- [Secret Tokens: Programmable Privacy for DeFi](https://blog.scrt.network/secret-tokens-programmable-privacy-for-defi)
+- [How To Build Secret Apps: An Evolving Development Guide](https://blog.scrt.network/how-to-build-secret-apps)
+- [Secret Vaults: Programmable Access Control](https://blog.scrt.network/secret-vaults-programmable-access-control)
+- [SecretWasm: Decentralized Private Computation](https://blog.scrt.network/secretwasm-decentralized-private-computation)
+- [Secret Committees: Empowering Secret Agents](https://blog.scrt.network/secret-committees-empowering-secret-agents)
+- [SCRT 2020: Our Visions for Universal Finance](https://blog.scrt.network/secret-2020-defi)
+- [Secret Network Gets a Secret API!](https://blog.scrt.network/secret-api)
+- [Secret Markets: Front-Running Prevention for AMMs](https://blog.scrt.network/secret-markets-front-running-prevention)
+- [Secret Ethereum Bridge](https://blog.scrt.network/secret-ethereum-bridge-privacy)
+- [SecretSCRT: Privacy Tokens are Live on Mainnet](https://blog.scrt.network/secret-scrt-privacy-tokens-mainnet)
+- [Secret NFTs: Verifiable Goods and Experiences](https://blog.scrt.network/secret-nfts)
+- [Introducing the Puzzle Committee](https://blog.scrt.network/the-puzzle-committee)
+- [Secret Bids: Trust-Minimized Auction Contracts](https://blog.scrt.network/secret-auctions)
+
+
+OTHER EQUIPMENT
+1 wand: GitHub account
+1 cauldron: set up your environment
+1 set glass or crystal phials: contribute some data
+1 telescope: ask questions to help gather insights
+1 set brass scales: metrics
+
+Students may also bring, if they desire, an owl OR a cat OR a toad.
+
+
 # FaunaDB with Magic Authentication (featuring Next.js)
 
-Follow along with [the official tutorial](https://docs.magic.link/integrations/todomvc) to build your own FaunaDB-powered TodoMVC app with Magic passwordless login!
+Refer to the official [demo](https://example-nextjs-faunadb-todomvc.vercel.app/login) and [tutorial](https://docs.magic.link/integrations/todomvc) to build your own FaunaDB-powered TodoMVC app with Magic passwordless login!
 
-👉 See the [live demo](https://example-nextjs-faunadb-todomvc.vercel.app/login)
-
-## Deploy your own
+## Deploy your own!
 
 Deploy the example using [Vercel Now](https://vercel.com/docs/now-cli#commands/overview/basic-usage):
 
